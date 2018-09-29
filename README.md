@@ -8,4 +8,4 @@ iOS uygulamanızda telefon numarasıyla alakalı işler yapacaksanız, özellikl
 
 Kullanıcı da telefon numarası girerken boşluk, parantez, kısa çizgi vs ile formatlamayla uğraşmak istemez.
 
-[Devamını oku...](https://iosnotlari.com/uitableview-kullanimi/)
+[Devamını oku...](https://iosnotlari.com/telefon-numarasi-formatlamak/)
